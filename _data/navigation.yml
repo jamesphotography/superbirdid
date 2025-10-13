@@ -1,0 +1,12 @@
+# main navigation
+main:
+  - title: "首页"
+    url: / 
+  - title: "功能详解"
+    url: /features/
+  - title: "下载"
+    url: /download/
+  - title: "使用指南"
+    url: /help/
+  - title: "关于我"
+    url: /about-me/
