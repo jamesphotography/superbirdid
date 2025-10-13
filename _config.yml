@@ -22,8 +22,8 @@ title: 慧眼识鸟-SuperBirdID
 email: james@jamesphotography.com.au
 description: >- # this means to ignore newlines until "baseurl:"
   慧眼识鸟-SuperBirdID 是一款适用于 Windows 与 macOS 的专业桌面应用。它利用先进的 AI 技术，支持离线识别全球超过10,000种鸟类，全面兼容 RAW 格式，并与 Lightroom 无缝集成。
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://jamesphotography.github.io"
+baseurl: "/superbirdid"
 github_username:  jamesphotography
 
 theme: minimal-mistakes-jekyll
