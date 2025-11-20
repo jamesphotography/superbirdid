@@ -206,9 +206,10 @@ v3.2.1 的改进源于用户对更好体验的追求。
 ---
 
 **文件**: `SuperBirdID-v3.2.1.dmg`
-**大小**: 318 MB
-**SHA256**: `247688dc9650ec8b2dde7f91263a7f0276d4fb58ec79d74e0500333f63358ce5`
-**签名**: ✅ 已签名（等待公证）
+**大小**: 319 MB
+**SHA256**: `dfa9689b5039b16647c9d1d853253affdd205b4f50c75437bba34b754f1d95a7`
+**签名**: ✅ 已签名并公证
+**公证**: ✅ 已装订（Submission ID: 1b19625f-915e-49b8-a2d2-3527498acc2a）
 
 **发布日期**: 2025-10-23
 **下载**: [GitHub Releases](https://github.com/yourusername/SuperBirdID/releases/tag/v3.2.1)

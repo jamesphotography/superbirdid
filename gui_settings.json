@@ -2,7 +2,9 @@
   "use_yolo": true,
   "use_gps": true,
   "use_ebird": true,
-  "selected_country": "澳大利亚 (AU)",
-  "selected_region": "South Australia (AU-SA)",
+  "selected_country": "澳大利亚 (Australia)",
+  "selected_region": "整个国家",
+  "country_code": "AU",
+  "region_code": null,
   "temperature": 0.6
 }
